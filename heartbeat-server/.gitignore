@@ -1,0 +1,9 @@
+node_modules/
+monitor-ui/node_modules/
+build/
+monitor-ui/build/
+.env
+backend/.env
+monitor-ui/.env
+npm-debug.log*
+.DS_Store
